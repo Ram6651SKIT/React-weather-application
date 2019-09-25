@@ -12,3 +12,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+button{
+  padding: 15px!important;
+  background: #2196F3!important;
+}
+input{
+  padding: 15px!important;
+}
