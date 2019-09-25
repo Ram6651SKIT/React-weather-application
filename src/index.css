@@ -18,10 +18,15 @@ button{
 }
 input{
   padding: 15px!important;
+  text-align: center!important;
 }
 body{
   background: #2196f3b0!important;
 }
 .row{
   text-align: center!important;
+}
+.weather__error{
+  font-size: 22px;
+    font-weight: bold;
 }
