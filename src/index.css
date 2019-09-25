@@ -30,3 +30,11 @@ body{
   font-size: 22px;
     font-weight: bold;
 }
+.weather__value{
+  color: #FFEB3B!important;
+}
+.weather__info{
+  background: #2196f3;
+    font-size: 18px;
+    font-weight: bold;
+}
