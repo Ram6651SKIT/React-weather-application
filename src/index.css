@@ -19,3 +19,9 @@ button{
 input{
   padding: 15px!important;
 }
+body{
+  background: #2196f3b0!important;
+}
+.row{
+  text-align: center!important;
+}
